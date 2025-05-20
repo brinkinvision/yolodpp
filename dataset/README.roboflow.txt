@@ -1,8 +1,8 @@
 
-My First Project - v2 2025-05-18 4:22pm
+PenAndPencil - v1 2025-05-20 11:54am
 ==============================
 
-This dataset was exported via roboflow.com on May 18, 2025 at 1:23 PM GMT
+This dataset was exported via roboflow.com on May 20, 2025 at 8:55 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects

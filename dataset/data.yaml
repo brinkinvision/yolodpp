@@ -11,7 +11,7 @@ path: dataset
 
 roboflow:
   workspace: penandpencildraft
-  project: my-first-project-imzp4
-  version: 2
+  project: penandpencil
+  version: 1
   license: CC BY 4.0
-  url: https://universe.roboflow.com/penandpencildraft/my-first-project-imzp4/dataset/2
+  url: https://universe.roboflow.com/penandpencildraft/penandpencil/dataset/1
